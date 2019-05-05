@@ -1,7 +1,8 @@
 # docker-hackmyresume <!-- omit in toc -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Docker Build Status](https://img.shields.io/docker/build/kir4h/hackmyresume.svg)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/kir4h/hackmyresume.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/kir4h/hackmyresume.svg)
 ![Docker Pulls](https://img.shields.io/docker/pulls/kir4h/hackmyresume.svg)
 
 - [Summary](#summary)
